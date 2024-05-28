@@ -1,0 +1,26 @@
+{
+  "name": "addfive",
+  "version": "0.0.1",
+  "description": "an npm package with a function that adds 5 to an integer",
+  "main": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahNim/AddFiveNPM.git"
+  },
+  "keywords": [
+    "addition"
+  ],
+  "author": "Noah M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoahNim/AddFiveNPM/issues"
+  },
+  "homepage": "https://github.com/NoahNim/AddFiveNPM#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
